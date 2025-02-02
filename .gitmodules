@@ -1,0 +1,3 @@
+[submodule "ringkit"]
+	path = ringkit
+	url = git@github.com:jjjalkanen/ringkit.git
